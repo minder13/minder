@@ -1,1 +1,2 @@
-# minder vamos a desarrollar en python
+# Vamos a desarrollar en python
+[un texto](notebook.ipynb)
