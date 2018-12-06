@@ -39,15 +39,15 @@ libro en [nbviewer](https://nbviewer.jupyter.org/github/minder13/minder/blob/mas
     </div>
     <div id="menu2" class="tab-pane fade">
       <p>Grafica de Sin(x).</p>
-      <img src="img/fig1.png" alt="Sin(x)">
+      <img src="fig1.png" alt="Sin(x)">
     </div>
     <div id="menu3" class="tab-pane fade">
       <p>Grafica de cosn(x).</p>
-      <img src="img/fig3.png" alt="cos(x)">
+      <img src="fig3.png" alt="cos(x)">
     </div>
     <div id="menu4" class="tab-pane fade">
       <p>Grafica de cosn(x).</p>
-      <img src="img/fig4.png" alt="cos(x)">
+      <img src="fig4.png" alt="cos(x)">
     </div>
     
   </div>
