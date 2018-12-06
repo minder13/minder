@@ -5,4 +5,4 @@ libro en [nbviewer](https://nbviewer.jupyter.org/github/minder13/minder/blob/mas
 
 #en python promp jupyter nbconvert --to html notebook.ipynb
 
-[otro texto](/notebook.html)
+[otro texto1](/notebook.html)
